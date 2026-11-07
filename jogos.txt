@@ -1,0 +1,12 @@
+Nome do jogo..........: A
+Ano lançamento........: 1990
+Genẽro................: A
+Produtora.............: A
+Valor.................: 1.00
+
+Nome do jogo..........: B
+Ano lançamento........: 2000
+Genẽro................: B
+Produtora.............: B
+Valor.................: 3.00
+
